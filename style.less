@@ -1,0 +1,579 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+    background: #2e3438;
+
+    font-family: "Public Sans", sans-serif;
+    color: white;
+
+    .header
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+
+        height: 350px;
+
+        @media only screen and (max-width: 900px)
+        {
+            flex-direction: column;
+
+            height: auto;
+
+            gap: 0px;
+
+            margin-bottom: 20px;
+        }
+
+        .banner-logo
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            gap: 80px;
+
+            background: #333c40;
+
+            padding: 50px;
+
+            border-radius: 20px;
+            border: 1px solid #555b5e;
+
+            width: 77%;
+
+            p
+            {
+                font-size: 20px;
+                width: 300px;
+
+                text-align: left;
+
+                margin: 0;
+
+                @media only screen and (max-width: 900px)
+                {
+                    width: 180px;
+
+                    font-size: 15px;
+
+                    text-align: left;
+                }
+            }
+
+            @media only screen and (max-width: 900px)
+            {
+                gap: 20px;
+
+                padding: 10px;
+
+                width: 90%;
+                height: 210px;
+
+                flex-direction: column;
+
+                p
+                {
+                    margin: 0;
+
+                    width: 270px;
+                }
+            }
+            
+            .slogan
+            {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+                gap: 20px;
+
+                @media only screen and (max-width: 900px)
+                {
+                    flex-direction: row;
+                    align-items: center;
+                }
+                
+                h1
+                {
+                    text-transform: uppercase;
+
+                    font-size: 25px;
+
+                    text-align: right;
+
+                    margin: 0;
+
+                    @media only screen and (max-width: 900px)
+                    {
+                        font-size: 20px;
+
+                        text-align: left;
+
+                        width: 170px;
+                    }
+                }
+            }
+
+            .logo-vat
+            {
+                img
+                {
+                    width: 150px;
+                    height: 150px;
+
+                    border-radius: 150px;
+
+                    @media only screen and (max-width: 900px)
+                    {
+                        width: 80px;
+                        height: 80px;
+                    }
+                }
+            }
+        }
+
+        .banner-creditos
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            gap: 80px;
+
+            background: #ffffff05;
+
+            padding: 40px;
+
+            border-radius: 20px;
+
+            @media only screen and (max-width: 900px)
+            {
+                padding: 0;
+
+                width: 95%;
+                height: 240px;
+            }
+
+            .criador
+            {
+                display: flex;
+                flex-direction: column;
+                align-items: start;
+                gap: 20px;
+
+                p
+                {
+                    margin: 0;
+                }
+
+                .rick
+                {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    gap: 20px;
+
+                    img
+                    {
+                        width: 50px;
+                        height: 50px;
+                    }
+
+                    h1
+                    {
+                        font-size: 20px;
+                        text-align: left;
+
+                        margin: 0;
+
+                        width: 100px;
+                    }
+                }
+
+                .pix
+                {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    gap: 5px;
+
+                    p
+                    {
+                        margin: 0;
+
+                        @media only screen and (max-width: 900px)
+                        {
+                            width: 260px;
+                        }
+                    }
+
+                    .copiar-pix
+                    {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        gap: 10px;
+
+                        padding: 10px;
+
+                        background: #ffffff10;
+                        border-radius: 8px;
+
+                        img
+                        {
+                            width: 13px;
+                            height: 13px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    section
+    {
+        display: flex;
+        justify-content: center;
+
+        .cont-infos
+        {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+
+            background: #333c40;
+            border: 1px solid rgb(85, 91, 94);
+            border-radius: 20px;
+
+            width: 80%;
+
+            padding: 30px;
+                    
+            @media only screen and (max-width: 900px)
+            {
+                gap: 0px;
+
+                width: 90%;
+
+                padding: 10px;
+            }
+
+            .titulos
+            {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                width: 100%;
+
+                .cont-titulos
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+
+                    width: 100%;
+                    
+                    @media only screen and (max-width: 900px)
+                    {
+                        justify-content: space-around;
+
+                        padding: 10px 0px;
+
+                        width: 100%;
+            
+                        border-radius: 0px;
+
+                        background: none;
+                    }
+
+                    div
+                    {
+                        &:nth-child(1)
+                        {
+                            width: 70px !important;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 60px;
+                                margin: 0px;
+                            }
+                        }
+
+                        &:nth-child(2)
+                        {
+                            width: 250px;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 110px;
+                            }
+                        }
+
+                        &:nth-child(3)
+                        {
+                            width: 230px;
+                        }
+
+                        &:nth-child(4)
+                        {
+                            width: 150px;
+                        }
+
+                        &:nth-child(5)
+                        {
+                            width: 85px;
+                            justify-content: start;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 100px;
+                            }
+                        }
+
+                        &:nth-child(6)
+                        {
+                            width: 85px;
+                            justify-content: end;
+                        }
+
+                        span
+                        {
+                            font-weight: bold;
+                            font-size: 14px;                
+                        }
+                    }
+
+                    .assinantes
+                    {
+                        @media only screen and (max-width: 900px)
+                        {
+                            width: 100px;
+                        }
+                    }
+
+                    .assinatura-filtro
+                    {
+                        width: 200px; // largura do select
+
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                            
+                        @media only screen and (max-width: 900px)
+                        {
+                            margin: 0px;
+                        }
+                        
+                        .custom-select
+                        {
+                            width: 105px;
+                            height: 40px;
+                            border-radius: 4px;
+                            
+                            // Estilo para o select dentro do custom-select
+                            select
+                            {
+                                height: 100%;
+                                border: none;
+                                background-color: transparent; // Fundo transparente para que o pseudo-elemento seja visível
+
+                                border: 1px solid #555b5e;
+                                border-radius: 20px;
+
+                                color: white;
+
+                                font-weight: bold;
+                                font-size: 14px;  
+
+                                @media only screen and (max-width: 900px)
+                                {
+                                    font-size: 14px;
+                                    font-weight: bold;
+                                }
+                            
+                                // Estilização opcional para o foco
+                                &:focus
+                                {
+                                    outline: none;
+                                }
+
+                                option
+                                {
+                                    color: black;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                @media only screen and (max-width: 900px)
+                {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: initial;
+                    width: 100%;
+                }
+            }
+
+            hr
+            {
+                border-right: none;
+                border-bottom: none;
+                border-left: none;
+                border-image: initial;
+                border-top: 1px solid rgb(86, 92, 95);
+                margin: 8px 0px;
+
+                width: 100%;
+            }
+
+            #parlamentares-list
+            {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                width: 100%;
+
+                .parlamentar
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+
+                    padding: 0px 30px;
+            
+                    width: 100%;
+                    height: 50px;
+
+                    &:hover
+                    {
+                        background: #ffffff10;
+                    }
+
+                    @media only screen and (max-width: 900px)
+                    {
+                        display: flex;
+                        justify-content: space-around;
+                        align-items: center;
+                        width: 100%;
+                        padding: 10px 0px;
+                        border-radius: 10px;
+
+                        .assinou, .nao-assinou
+                        {
+                            width: 70px;
+                        }
+                    }
+
+                    div
+                    {
+                        width: 70px;
+
+                        display: flex;
+                        justify-content: center;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                width: 70px;
+                            }
+                    }
+
+                    p
+                    {
+                        margin: 0;
+                        padding: 0;
+
+                        &:nth-child(1)
+                        {
+                            width: 70px;
+                            line-height: 30px;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 70px;
+                            }
+                        }
+
+                        &:nth-child(2)
+                        {
+                            width: 250px;
+                            
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 110px !important;
+                            }
+                        }
+
+                        &:nth-child(3)
+                        {
+                            width: 230px;
+                        }
+
+                        &:nth-child(4)
+                        {
+                            width: 150px;
+                        }
+
+                        &:nth-child(5)
+                        {
+                            width: 85px;
+
+                            @media only screen and (max-width: 900px)
+                            {
+                                width: 85px !important;
+
+                                text-align: right;
+                            }
+                        }
+
+                        &:nth-child(6)
+                        {
+                            width: 85px;
+
+                            text-align: right;
+                        }
+                    }
+
+                    .nao-assinou
+                    {
+                        background: #EB757520;
+
+                        text-align: center;
+
+                        border-radius: 5px;
+                    }
+
+                    .assinou
+                    {
+                        background: #429B9420;
+
+                        text-align: center;
+
+                        border-radius: 5px;
+                    }
+                }
+
+                .nenhum-encontrado
+                {
+                    padding: 50px;
+                }
+
+                @media only screen and (max-width: 900px)
+                {
+                    align-items: initial;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

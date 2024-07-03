@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votação VAT</title>
+
+    <link rel="icon" type="image/x-icon" href="https://caiogbdesign.github.io/vat/vat-favicon.png">
+    
+    <link rel="stylesheet/less" type="text/css" href="style.less" />
+    <link rel="stylesheet/less" type="text/css" href="modal.less" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+
+        <div class="banner-logo">
+            <div class="slogan">
+                <h1>Vida além do trabalho</h1>
+
+                <div class="logo-vat mobile">
+                    <img src="https://caiogbdesign.github.io/vat/vat-favicon.png" alt="">
+                </div>
+            </div>
+    
+            <div class="logo-vat desktop">
+                <img src="https://caiogbdesign.github.io/vat/vat-favicon.png" alt="">
+            </div>
+
+            <p>Lutamos pelo fim da escala 6x1 e por melhores condições para a classe trabalhadora.</p>
+        </div>
+
+        <!-- div class="banner-creditos">
+            <div class="criador">
+                <p>Liderado por</p>
+                <div class="rick">
+                    <img src="https://caiogbdesign.github.io/vat/ricardo-azevedo.png" alt="" >
+                    <h1>Ricardo Azevedo</h1>
+                </div>
+                
+                <div class="pix">
+                    <p>Contribua para acabar com essa escala abusiva:</p>
+                    <div class="copiar-pix" id="conteudo-pix"><p>vat.vidaalemdotrabalho@gmail.com</p><img src="https://caiogbdesign.github.io/vat/copiar.svg" alt=""></div>
+                </div>
+            </div>
+        </div -->
+
+    </div>
+    
+    <section>
+        <div class="cont-infos">
+            <div class="titulos">
+                <div class="cont-titulos">
+                    <div class="assinatura-filtro assinantes">
+                        <div class="custom-select">
+                            <select id="apoiador">
+                                <option value="">Assinou</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div><span>Parlamentar</span></div>
+                    <div class="desktop"><span>Email</span></div>
+                    <div class="desktop"><span>Contato</span></div>
+                    <div class="assinatura-filtro nome-partido">
+                        <div class="custom-select">
+                            <select id="partidos">
+                                <option value="">Partido</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="assinatura-filtro desktop">
+                        <div class="custom-select">
+                            <select id="estados">
+                                <option value="">Estado</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+            
+            <div id="parlamentares-list"></div>
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div id="modal-body"></div>
+            <div class="close">Fechar</div>
+        </div>
+    </div>
+
+    <script src="script-load-json.js" ></script>
+    <script src="copiar-pix.js" ></script>
+
+    <!-- Less -->
+    <script src="https://cdn.jsdelivr.net/npm/less" ></script>
+</body>
+</html>

@@ -1,0 +1,530 @@
+[
+    {
+        "assinou": "Sim",
+        "parlamentar": "Ivan Valente",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Padre João",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Nilto Tatto",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Guilherme Boulos",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Marangoni",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Dagoberto Nogueira",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSDB",
+        "estado": "MS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Marcio Jerry",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PCdoB",
+        "estado": "MA"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Maria Arraes",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "Solidariedade",
+        "estado": "PE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Marcon",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "RS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Natália Bonavids",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "RN"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Juliana Cardoso",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Yandra Moura",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "União Brasil",
+        "estado": "SE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Marcos Tavares",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PDT",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Daiana Santos",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PCdoB",
+        "estado": "RS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Ana Pimentel",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Fernanda Melchionna",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Vicentinho",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Carol Dartora",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "PR"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "André Janones",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "Avante",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Denise Pessoa",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "RS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Célio Studart",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSD",
+        "estado": "CE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Alfredinho",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Kiko Celeguim",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Túlio Gadelha",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "REDE",
+        "estado": "PE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Túlio Gadelha",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "REDE",
+        "estado": "PE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Tarcísio Motta",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Taliria Petrone",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Samia Bomfim",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Reginete Bispo",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "RS"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Professora Luciene Cavalcanye",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Pastor Henrique Vieira",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Orlando Silva",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PCdoB",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Meire Serafim",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "AC"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Luiza Erundina",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Lindbergh Farias",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Jandira Feghali",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PCdoB",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Dandara",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Antônio Lúcia",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "REPUBLIC",
+        "estado": "AC"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Glauber Braga",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Delegada Adriana Accorsi",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "GO"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Chico Alencar",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "RJ"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Celia Xakriabá",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSOL",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Stefano Aguiar",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSD",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Socorro Neri",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PP",
+        "estado": "AC"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Saullo Vianna",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "AM"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Luizianne Lins",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "CE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Jorge Solla",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Fernando Rodolfo",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PL",
+        "estado": "PE"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Duda Salabert",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PDT",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Douglas Viegas",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "SP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Dorinaldo Malafaia",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PDT",
+        "estado": "AP"
+    },
+    {
+        "assinou": "Sim",
+        "parlamentar": "Rogério Correia",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PT",
+        "estado": "MG"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Alice Portugal",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PCdoB",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Alfredo Gaspar",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "AL"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Antonio Brito",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSD",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Capitão Alden",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PL",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Claudio Cajado",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PP",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Félix Mendonça Júnior",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PDT",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Gabriel Nunes",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSD",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Arthur Lira",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PP",
+        "estado": "AL"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Arthur Oliveira Maia",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "UNIÃO",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Daniel Barbosa",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PP",
+        "estado": "AL"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Bacelar",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PV",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Delegado Fabio Costa",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PP",
+        "estado": "AL"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Charles Fernandes",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "PSD",
+        "estado": "BA"
+    },
+    {
+        "assinou": "Não",
+        "parlamentar": "Isnaldo Bulhões Jr.",
+        "email": "Não informado",
+        "telefone": "Não informado",
+        "partido": "MDB",
+        "estado": "AL"
+    }
+]
